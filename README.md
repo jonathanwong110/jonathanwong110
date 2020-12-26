@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**jonathanwong110/jonathanwong110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! If you have any questions, feel free to reach out via LinkedIn or by emailing me!
 
-Here are some ideas to get you started:
+Happy Coding!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Check out my Portfolio!
+
+https://jonathanwong110.github.io/JonathanWongPortfolio/
+
+<br>
+
+Medium: https://jonathan-wong.medium.com/
+
+LinkedIn: https://www.linkedin.com/in/wongjonathan1/
+
+Twitter: https://twitter.com/JonWCodes
