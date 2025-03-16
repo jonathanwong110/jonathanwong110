@@ -12,8 +12,10 @@ https://jonathanwong110.github.io/JonathanWongPortfolio/
 
 <br>
 
-Medium: https://jonathan-wong.medium.com/
+You can also find me on
 
-LinkedIn: https://www.linkedin.com/in/wongjonathan1/
+[LinkedIn](https://www.linkedin.com/in/jonathanwong3/)
 
-Twitter: https://twitter.com/JonWCodes
+[Medium](https://jonathan-wong.medium.com/)
+
+[Twitter/X](https://twitter.com/JonWCodes)
