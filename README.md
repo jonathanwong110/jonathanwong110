@@ -6,9 +6,7 @@ Happy Coding!
 
 ---
 
-Check out my Portfolio!
-
-https://jonathanwong110.github.io/JonathanWongPortfolio/
+Check out my [Portfolio](https://jonathanwong110.github.io/JonathanWongPortfolio/)!
 
 <br>
 
